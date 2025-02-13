@@ -18,7 +18,7 @@ It consists of:
 
 ---
 
-## Installation  
+  
 
 ### **Clone the Repository**  
 ```sh
