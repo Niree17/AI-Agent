@@ -22,5 +22,5 @@ It consists of:
 
 ### **Clone the Repository**  
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/ai-agents.git
+git clone https://github.com/Niree17/AI-Agent.git
 cd ai-agents
